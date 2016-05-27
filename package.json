@@ -1,0 +1,22 @@
+{
+  "name": "design-system-ui-kit",
+  "version": "1.0.0",
+  "description": "Lightning Design System UI Kit",
+  "main": "sketch-ui-kit.sketch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salesforce-ux/design-system-ui-kit.git"
+  },
+  "keywords": [
+    "salesforce"
+  ],
+  "author": "Salesforce",
+  "license": "SEE LICENSE IN README",
+  "bugs": {
+    "url": "https://github.com/salesforce-ux/design-system-ui-kit/issues"
+  },
+  "homepage": "https://github.com/salesforce-ux/design-system-ui-kit#readme"
+}
