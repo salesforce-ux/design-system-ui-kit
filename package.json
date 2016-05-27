@@ -1,5 +1,5 @@
 {
-  "name": "design-system-ui-kit",
+  "name": "@salesforce-ux/design-system-ui-kit",
   "version": "1.0.0",
   "description": "Lightning Design System UI Kit",
   "main": "sketch-ui-kit.sketch",
