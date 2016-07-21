@@ -1,6 +1,6 @@
 # Salesforce Lightning Design System UI Kit
 # Release notes
 
-## Winter 17
+## Winter 2017
 
 - UI Kit created
