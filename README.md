@@ -20,7 +20,7 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 ### Salesforce Sans fonts
 
 1. [Download the Design System Zip](https://www.lightningdesignsystem.com/resources/downloads/)
-2. Find the fonts in /assets/fonts
+2. Find the fonts located in the `/assets/fonts` directory
 3. Install the fonts on your system
 
 ## License
