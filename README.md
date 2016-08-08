@@ -26,14 +26,15 @@ ___
 ## Contribute!
 
 ### The Ask
-The SLDS team welcomes your help in maintaining and growing this  UI kit. 
-
-Because team bandwidth is necessarily prioritized to the growth and development of the SLDS code itself we are not always able to keep this file in sync with the code state of the system.
+The SLDS team welcomes your help in maintaining and growing this UI kit. 
 
 Here are a few of the kinds of contributions we are looking for:
-1.  **Bug fixes:** you have corrected a case where a component symbol in the file does not match the code representation of the component
-2.  **New Pattern:** you have arranged a set of components into a pattern that you believe is has general utility
-3.  **New Template:** you have laid out a set of patterns into a template that you believe has general utility
+1.  **Bug fixes:** fixing goofs in the Sketch file where what it has for a component doesn’t match what we are displaying for that component in the code-based documentation 
+2.  **New Pattern:** sharing your design for arranging several components into a useful UI widget
+3.  **New Template:** sharing a more complex design that contains components and patterns arranged into an entire screen layout
+
+### Got something to add?
+Great! Please take a look at our [contribution guidelines](https://CONTRIBUTING.md) for instructions on how to proceed.
 
 ### The Contribution Process
 What you do:
