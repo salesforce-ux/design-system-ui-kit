@@ -34,20 +34,8 @@ Here are a few of the kinds of contributions we are looking for:
 3.  **New Template:** sharing a more complex design that contains components and patterns arranged into an entire screen layout
 
 ### Got something to add?
-Great! Please take a look at our [contribution guidelines](https://CONTRIBUTING.md) for instructions on how to proceed.
+Great! Please take a look at our [contribution guidelines](CONTRIBUTING.md) for instructions on how to proceed.
 
-### The Contribution Process
-What you do:
-1. [Clone](https://help.github.com/articles/cloning-a-repository/) this repo
-2. Make a new [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-3. Edit the Sketch UI Kit file to include your changes
-3. Create a [pull request](https://help.github.com/articles/using-pull-requests/)
-
-What we’ll do:
-1. Review your pull request
-2.  Provide you with feedback on your changes and what, if any, additional changes we’d like to see before bringing them into the master file
-3.  Once we are on the same page about your proposed changes, we will go ahead and manually merge them into the master file 
-___
 ## License
 
 Copyright (c) 2016, salesforce.com, inc. All rights reserved.
