@@ -23,6 +23,7 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 2. Find the fonts located in the `/assets/fonts` directory
 3. Install the fonts on your system
 ___
+
 ## Contribute!
 
 ### The Ask

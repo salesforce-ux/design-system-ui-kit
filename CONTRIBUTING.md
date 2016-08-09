@@ -1,7 +1,7 @@
 ## The Contribution Process
 
 ### Here is what you need to do to make a contribution: 
-[Clone](https://help.github.com/articles/cloning-a-repository/) this repo
+1. [Clone](https://help.github.com/articles/cloning-a-repository/) this repo
 2. Make a new [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 3. Edit the Sketch UI Kit file to include your changes
 3. Create a [pull request](https://help.github.com/articles/using-pull-requests/)
