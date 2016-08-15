@@ -22,7 +22,8 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 1. [Download the Design System Zip](https://www.lightningdesignsystem.com/resources/downloads/)
 2. Find the fonts located in the `/assets/fonts` directory
 3. Install the fonts on your system
-___
+
+----
 
 ## Contribute!
 The SLDS team welcomes your help in maintaining and growing this UI kit. 
