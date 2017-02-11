@@ -6,7 +6,23 @@
 
 ## [2.0.0] - 2017-02-13
 
+An all new Design System UI Kit entirely revisited for Spring ’17, featuring:
 
+- UI Layouts for easy plug-in design
+- Additional components, states, and variants
+- Components are broken down to follow the new Spring ’17 taxonomy
+- Reduced number of symbols for easier customization
+
+New and updated components:
+
+- Docked Utility Bar
+- Empty State Illustrations
+- Hero Buttons
+- Progress Bar
+- Progress Indicator
+- Rich Text Editor
+- Vertical Navigation
+- And more!
 
 ## [1.0.2] - 2016-09-28
 
