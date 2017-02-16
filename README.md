@@ -11,6 +11,8 @@ A [Sketch](https://www.sketchapp.com/) file of common design patterns from the [
 
 ----
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/salesforce-ux/design-system-ui-kit.svg)](https://greenkeeper.io/)
+
 ## Requirements
 
 ### Sketch
