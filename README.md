@@ -26,24 +26,19 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 ----
 
 ## Contribute!
+
 The SLDS team welcomes your help in maintaining and growing this UI kit. 
 
 Here are a few of the kinds of contributions we are looking for:
 
-1.  **Bug fixes:** fixing goofs in the Sketch file where what it has for a component doesn’t match what we are displaying for that component in the code-based documentation 
-2.  **New Pattern:** sharing your design for arranging several components into a useful UI widget
-3.  **New Template:** sharing a more complex design that contains components and patterns arranged into an entire screen layout
+1. **Bug fixes:** fixing goofs in the Sketch file where what it has for a component doesn’t match what we are displaying for that component in the code-based documentation 
+2. **New Pattern:** sharing your design for arranging several components into a useful UI widget
+3. **New Template:** sharing a more complex design that contains components and patterns arranged into an entire screen layout
 
 ### Got something to add?
-Great! Please take a look at our [contribution guidelines](CONTRIBUTING.md) for instructions on how to proceed.
+
+Great! Please take a look at our [contribution guidelines](https://github.com/salesforce-ux/design-system-ui-kit/blob/master/CONTRIBUTING.md) for instructions on how to proceed.
 
 ## License
 
-Copyright (c) 2016, salesforce.com, inc. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-Neither the name of salesforce.com, inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+All icons and images are licensed under [Creative Commons Attribution-NoDerivatives 4.0](https://github.com/salesforce-ux/licenses/blob/master/LICENSE-icons-images.txt)

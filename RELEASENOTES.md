@@ -4,6 +4,26 @@
 
 <!-- ## [Unreleased] -->
 
+## [2.0.0] - 2017-03-31
+
+An all new Design System UI Kit entirely revisited for Spring ’17, featuring:
+
+- UI Layouts for easy plug-in design
+- Additional components, states, and variants
+- Components are broken down to follow the new Spring ’17 taxonomy
+- Reduced number of symbols for easier customization
+
+New and updated components:
+
+- Docked Utility Bar
+- Empty State Illustrations
+- Hero Buttons
+- Progress Bar
+- Progress Indicator
+- Rich Text Editor
+- Vertical Navigation
+- And more!
+
 ## [1.0.2] - 2016-09-28
 
 - Added the word “experience”
@@ -17,6 +37,7 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.2...v2.0.0
 [1.0.2]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.0...v1.0.1
