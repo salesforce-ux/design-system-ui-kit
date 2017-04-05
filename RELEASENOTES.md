@@ -4,6 +4,12 @@
 
 <!-- ## [Unreleased] -->
 
+## [2.0.2] - 2017-04-05
+
+- Fixed a typo in the icons & illustrations artboard
+- Fixed alignment of a dropdown trigger in activity timeline
+- Removed an unnecessary character in activity timeline
+
 ## [2.0.1] - 2017-04-05
 
 - Fixed an issue where missing fonts would create visual artifacts
@@ -41,7 +47,8 @@ New and updated components:
 
 - Initial release
 
-[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.1...HEAD
+[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.2...HEAD
+[2.0.2]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.2...v2.0.0
 [1.0.2]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.1...v1.0.2
