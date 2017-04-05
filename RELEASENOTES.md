@@ -4,6 +4,10 @@
 
 <!-- ## [Unreleased] -->
 
+## [2.0.1] - 2017-04-05
+
+- Fixed an issue where missing fonts would create visual artifacts
+
 ## [2.0.0] - 2017-03-31
 
 An all new Design System UI Kit entirely revisited for Spring ’17, featuring:
