@@ -41,7 +41,8 @@ New and updated components:
 
 - Initial release
 
-[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.1...HEAD
+[2.0.1]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.2...v2.0.0
 [1.0.2]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/salesforce-ux/design-system-ui-kit/compare/v1.0.0...v1.0.1
