@@ -1,7 +1,7 @@
 <h1 align="center">Lightning Design System UI Kit</h1>
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/85783/15560157/af4a1abc-229d-11e6-9a3d-6c3f4b81220b.png" alt="Design System UI Kit" />
+<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://cloud.githubusercontent.com/assets/85783/15560157/af4a1abc-229d-11e6-9a3d-6c3f4b81220b.png" alt="Design System UI Kit" /></a>
 <br />
 <br />
 A <a href="https://www.sketchapp.com/">Sketch</a> file of common design patterns from the <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
