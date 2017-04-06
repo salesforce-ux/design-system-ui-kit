@@ -6,8 +6,12 @@
 <br />
 A <a href="https://www.sketchapp.com/">Sketch</a> file of common design patterns from the <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
 <br />
+</p>
 <h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest version «</a></h3>
 <br />
+
+[![UI Kit Preview](https://cloud.githubusercontent.com/assets/85783/24780081/69e09d76-1ae9-11e7-8f2b-ea30fc91ec51.jpg)](https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip)
+
 
 ----
 
