@@ -38,7 +38,7 @@ An all new Design System UI Kit entirely revisited for Winter ’18, featuring:
 - Simplified to use shapes only / 3 colors
 
 ### Cards
-- Winter '17 card styles represented for path and related list components
+- Winter '18 card styles represented for path and related list components
 
 ### Bugs
 - QA pass to ensure small details like text spacing, padding, states were all correct
