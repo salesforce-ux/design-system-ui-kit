@@ -4,6 +4,46 @@
 
 <!-- ## [Unreleased] -->
 
+## [3.0.0] - 2018-01-05
+
+An all new Design System UI Kit entirely revisited for Winter ’18, featuring:
+
+### Mobile!
+- Simple, complex, and structure Salesforce mobile app components are now available
+- Key example screens for all major app states/functional areas
+### Symbols
+- All components are now defined as proper symbols
+- Grouped with states defined / matches SLDS site naming
+- Split between desktop and mobile components
+- Core form elements use nested symbol functionality to allow for label overrides, states, and resizing
+
+### Typography
+- Type styes cleaned up / redefined (inc spacing and text transformations)
+- Updated with actual app examples
+- Separate mobile styles defined
+
+### Icons
+- All standard icons now included as symbols (158)
+- All utility icons now included as symbols (277)
+- Grouped alphabetically for easy finding
+
+### Color palette
+- Reduced 12 stop gray palette defined with usage notes
+- All components updated to use correct gray values
+- Removed legacy design tokens
+
+### Wireframes
+- Split to separate page
+- Mobile specific wireframes, keyboards, and device frames
+- Simplified to use shapes only / 3 colors
+
+### Cards
+- Winter '18 card styles represented for path and related list components
+
+### Bugs
+- QA pass to ensure small details like text spacing, padding, states were all correct
+
+
 ## [2.0.2] - 2017-04-05
 
 - Fixed a typo in the icons & illustrations artboard
