@@ -4,6 +4,10 @@
 
 <!-- ## [Unreleased] -->
 
+## [3.0.1] - 2018-01-26
+
+- Fixed a typo in sketch release notes
+
 ## [3.0.0] - 2018-01-05
 
 An all new Design System UI Kit entirely revisited for Winter ’18, featuring:
