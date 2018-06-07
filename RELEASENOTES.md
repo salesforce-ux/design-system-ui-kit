@@ -6,7 +6,7 @@
 
 ## [4.0.0] - 2018-06-05
 
-An all new Design System UI Kit entirely revisited for Summer ’19, featuring:
+An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 
 ###New Components
 

@@ -73,7 +73,7 @@ To see nested symbols in action, add a symbol from the SLDS Component Library to
 
 **Color Token Symbols**
 
-Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. This Sketch document uses color symbols to mimic SLDS design tokens with color values. This allows the structure of a symbol to use the equivalent of a design token.
+Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. This Sketch document uses color symbols to mimic [Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/) with color values. This allows the structure of a symbol to use the equivalent of a design token.
 
 In symbols, like icons, that contain solid color backgrounds, you’ll find the background is a mask which reveals the color symbol as if it was a shape fill. This allows us to easily make file-wide changes to colors when new visual styles are introduced in SLDS. Instead of changing fill colors in hundreds of shapes in this document, we can just update a color symbol or point the shape to another color symbol.
 <br />
@@ -81,7 +81,7 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 
 ## How to use the icon symbols
 
-**Icons are used frequently across Lightning Design System. We’ve constructed them to be easily used individually and as nested symbols. The steps below cover how to place icon symbols individually.**
+**Across Salesforce, you'll frequently see [Lightning Design System icons](https://www.lightningdesignsystem.com/icons/). We’ve constructed them to be easily used individually and as nested symbols. The steps below cover how to place icon symbols individually.**
 
 1. **Choose an icon type**. SLDS has four types of icons. Utility icons are used for everything except Salesforce object icons. Utility icons are what you’ll want to use 95% of the time. Action icons are primarily used in mobile applications. Custom icons are to be used for custom Salesforce objects. Standard icons are used for standard Salesforce objects. 
 2. **Place your icon type symbol**. Once you’ve chosen the type of icon you’d like to use (Utility, right?) place that symbol where you’d like in your Sketch document.
