@@ -1,11 +1,13 @@
 <p align="center">
 <a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082861-8013ecba-69e4-11e8-8149-7eaa94825b19.png" alt="Design System UI Kit" /></a>
+</p>
 <br />
 <br />
 <h1 align="center">Lightning Design System UI Kit</h1>
+<p align="center">
 A <a href="https://www.sketchapp.com/">Sketch</a> file of components from <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
-<br />
 </p>
+<br />
 <h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest version now «</a></h3>
 <br />
 
