@@ -1,17 +1,13 @@
-<h1 align="center">Lightning Design System UI Kit</h1>
-
 <p align="center">
-<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://cloud.githubusercontent.com/assets/85783/15560157/af4a1abc-229d-11e6-9a3d-6c3f4b81220b.png" alt="Design System UI Kit" /></a>
+<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082861-8013ecba-69e4-11e8-8149-7eaa94825b19.png" alt="Design System UI Kit" /></a>
 <br />
 <br />
-A <a href="https://www.sketchapp.com/">Sketch</a> file of common design patterns from the <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
+<h1 align="center">Lightning Design System UI Kit</h1>
+A <a href="https://www.sketchapp.com/">Sketch</a> file of components from <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
 <br />
 </p>
-<h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest version «</a></h3>
+<h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest version now «</a></h3>
 <br />
-
-[![UI Kit Preview](https://user-images.githubusercontent.com/12544709/34635155-66068cc2-f240-11e7-9043-e6b77b4e5ff4.png)](https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip)
-
 
 ----
 
@@ -101,3 +97,8 @@ Great! Please take a look at our [contribution guidelines](https://github.com/sa
 ## License
 
 All icons and images are licensed under [Creative Commons Attribution-NoDerivatives 4.0](https://github.com/salesforce-ux/licenses/blob/master/LICENSE-icons-images.txt)
+<br />
+<br />
+<p align="center">
+<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082860-7ffe3c1c-69e4-11e8-9b0f-813cf9be1395.png" alt="Design System UI Kit" /></a>
+</p>
