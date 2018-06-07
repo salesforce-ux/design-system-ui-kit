@@ -2,13 +2,12 @@
 <a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082861-8013ecba-69e4-11e8-8149-7eaa94825b19.png" alt="Design System UI Kit" /></a>
 </p>
 <br />
-<br />
-<h1 align="center">Lightning Design System UI Kit</h1>
+<h1 align="center" style="border-bottom:none;">Lightning Design System UI Kit</h1>
 <p align="center">
-A <a href="https://www.sketchapp.com/">Sketch</a> file of components from <a href="https://www.lightningdesignsystem.com">Lightning Design System</a>.
+A Sketch document of <a href="https://www.lightningdesignsystem.com">Lightning Design System</a> components.
 </p>
-<br />
 <h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest version now «</a></h3>
+<br />
 <br />
 
 ----
@@ -30,19 +29,80 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 **Welcome to the Summer ’18 Sketch Library document**
 
 The Salesforce UX team has made quite a few changes to this document since the last release. We made optimizations so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started with this Sketch Library document. You can still use this document just like you have in previous releases, but the Salesforce UX team believes this file is best used as a Sketch Library. What does that mean and why should you use it that way? We’ll answer those questions below.
+<br />
+<br />
 
 **Why use this file as a Sketch Library?**
 
 Sketch has released a feature that allowed any Sketch file’s symbols to be accessed and used across all of your Sketch documents. They called this feature Sketch Libraries. You can now have all SLDS components available from Sketch’s symbols menu in any file you open. Another powerful feature is that Sketch Libraries will automatically update your designs when the Library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
+<br />
+<br />
 
 **How to use this document as a Sketch Library in two quick steps**
 
 1. **Save this file to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
 2. **“Add as Library” in the Sketch menu**. Next you’ll want to open the SLDS Component Library document and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components are available in your Sketch Symbols menu to use in any Sketch document you work in. You can close SLDS Component Library document.
 
+<table border="0" style="border-collapse:collapse;">
+	<tr style="border:none;">
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114414-3895b92c-6a39-11e8-81b6-cac65b112737.png" title="With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu" >
+				<img src="https://user-images.githubusercontent.com/1750832/41114414-3895b92c-6a39-11e8-81b6-cac65b112737.png" alt="With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu
+			</span>
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114420-3940e2d4-6a39-11e8-8a1c-dde608b0eb5b.png" title="You can see all of your Sketch Libraries in Sketch > Preferences > Libraries">
+				<img src="https://user-images.githubusercontent.com/1750832/41114420-3940e2d4-6a39-11e8-8a1c-dde608b0eb5b.png" alt="You can see all of your Sketch Libraries in Sketch > Preferences > Libraries" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				You can see all of your Sketch Libraries in Sketch > Preferences > Libraries
+			</span> 
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114423-3964d928-6a39-11e8-9ec1-4a532778670f.png" title="You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in.">
+				<img src="https://user-images.githubusercontent.com/1750832/41114423-3964d928-6a39-11e8-9ec1-4a532778670f.png" alt="You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in." />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in.
+			</span> 
+		</td>
+	</tr>
+</table>
+<br />
+<br />
+
 **Artboards Everywhere**
 
 Another big change we’ve made with this Sketch Library document is we moved all components to their own artboards. This makes finding the component symbol you want to use a breeze by mapping the lightningdesignsystem.com website’s menu, which you should be familiar with, to match the left hand artboard menu in Sketch.
+
+<table border="0" style="border-collapse:collapse;">
+	<tr style="border:none;">
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114419-392461ae-6a39-11e8-98fa-345a66b7c82b.png" title="Sketch SLDS Component Library Artboards" >
+				<img src="https://user-images.githubusercontent.com/1750832/41114419-392461ae-6a39-11e8-98fa-345a66b7c82b.png" alt="Sketch SLDS Component Library Artboards" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				Sketch SLDS Component Library Artboards
+			</span>
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114418-390674b4-6a39-11e8-807c-aada633f10c5.png" title="lightningdesignsystem.com Website Menu" >
+				<img src="https://user-images.githubusercontent.com/1750832/41114418-390674b4-6a39-11e8-807c-aada633f10c5.png" alt="lightningdesignsystem.com Website Menu" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				lightningdesignsystem.com Website Menu
+			</span>
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
+			&nbsp;
+		</td>
+	</tr>
+</table>
+<br />
+<br />
 
 **Nested Symbols Galore**
 
@@ -54,11 +114,39 @@ Most nested symbols are denoted in this document’s structure under the folders
 
 To see nested symbols in action, add a symbol from the SLDS Component Library to your Sketch document. In Sketch’s right side panel you’ll see all the symbol overrides or customizations you can make to that symbol without having to detach it and keeping the automatic update feature in tact.
 
+<table border="0" style="border-collapse:collapse;">
+	<tr style="border:none;">
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114415-38c15a64-6a39-11e8-8c71-bd6d1ceaad2a.png" title="The right side overrides section allows for the tab title and state to be customized" >
+				<img src="https://user-images.githubusercontent.com/1750832/41114415-38c15a64-6a39-11e8-8c71-bd6d1ceaad2a.png" alt="The right side overrides section allows for the tab title and state to be customized" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				The right side overrides section allows for the tab title and state to be customized
+			</span>
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
+			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114416-38e5b03a-6a39-11e8-8057-f782b77a1280.png" title="The tab symbol uses nested symbols for Hover, Default and Selected tab states" >
+				<img src="https://user-images.githubusercontent.com/1750832/41114416-38e5b03a-6a39-11e8-8057-f782b77a1280.png" alt="The tab symbol uses nested symbols for Hover, Default and Selected tab states" />
+			</a>
+			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
+				The tab symbol uses nested symbols for Hover, Default and Selected tab states
+			</span>
+		</td>
+		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
+			&nbsp;
+		</td>
+	</tr>
+</table>
+<br />
+<br />
+
 **Color Token Symbols**
 
 Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. This Sketch document uses color symbols to mimic SLDS design tokens with color values. This allows the structure of a symbol to use the equivalent of a design token.
 
 In symbols, like icons, that contain solid color backgrounds, you’ll find the background is a mask which reveals the color symbol as if it was a shape fill. This allows us to easily make file-wide changes to colors when new visual styles are introduced in SLDS. Instead of changing fill colors in hundreds of shapes in this document, we can just update a color symbol or point the shape to another color symbol.
+<br />
+<br />
 
 ## How to use the icon symbols
 
@@ -69,6 +157,8 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 3. **Choose your icon glyph**. In Sketch’s right overrides panel, choose the icon glyph you’d like to use from the dropdown menu.
 4. **(Optional) Choose an icon glyph color**. In Sketch’s right overrides panel, choose the icon glyph color you’d like to use from the dropdown menu.
 5. **(Optional, for Action, Custom and Standard Icon Types) Choose an icon background color**. In Sketch’s right overrides panel, choose the icon background color you’d like to use from the dropdown menu.
+<br />
+<br />
 
 ## Recommended Sketch Plugins
 
@@ -81,6 +171,8 @@ https://github.com/DWilliames/paddy-sketch-plugin
 
 Sketch Runner helps you to get around Sketch quicker by giving you an intuitive interface to run commands directly from your keyboard. Runner allows you to skip Sketch navigation, buttons or menus and quickly type the action you want to take like, “insert desktop tab” to add a tab component symbol to your artboard.
 [https://sketchrunner.com](https://sketchrunner.com/)
+<br />
+<br />
 
 ## Contribute!
 
@@ -95,6 +187,8 @@ Here are a few of the kinds of contributions we are looking for:
 ### Got something to add?
 
 Great! Please take a look at our [contribution guidelines](https://github.com/salesforce-ux/design-system-ui-kit/blob/master/CONTRIBUTING.md) for instructions on how to proceed.
+<br />
+<br />
 
 ## License
 
