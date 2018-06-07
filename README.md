@@ -43,34 +43,7 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 1. **Save this file to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
 2. **“Add as Library” in the Sketch menu**. Next you’ll want to open the SLDS Component Library document and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components are available in your Sketch Symbols menu to use in any Sketch document you work in. You can close SLDS Component Library document.
 
-<table border="0" style="border-collapse:collapse;">
-	<tr style="border:none;">
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114414-3895b92c-6a39-11e8-81b6-cac65b112737.png" title="With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu" >
-				<img src="https://user-images.githubusercontent.com/1750832/41114414-3895b92c-6a39-11e8-81b6-cac65b112737.png" alt="With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				With the SLDS Component Library file open in Sketch, select 'Add as Library' in the Sketch menu
-			</span>
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114420-3940e2d4-6a39-11e8-8a1c-dde608b0eb5b.png" title="You can see all of your Sketch Libraries in Sketch > Preferences > Libraries">
-				<img src="https://user-images.githubusercontent.com/1750832/41114420-3940e2d4-6a39-11e8-8a1c-dde608b0eb5b.png" alt="You can see all of your Sketch Libraries in Sketch > Preferences > Libraries" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				You can see all of your Sketch Libraries in Sketch > Preferences > Libraries
-			</span> 
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114423-3964d928-6a39-11e8-9ec1-4a532778670f.png" title="You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in.">
-				<img src="https://user-images.githubusercontent.com/1750832/41114423-3964d928-6a39-11e8-9ec1-4a532778670f.png" alt="You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in." />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				You'll see the SLDS Sketch Library symbols available under your symbols menu no matter what Sketch document you're working in.
-			</span> 
-		</td>
-	</tr>
-</table>
+![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41117595-58fd0b30-6a42-11e8-96ab-dc0ad1240a6d.png)
 <br />
 <br />
 
@@ -78,29 +51,8 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 
 Another big change we’ve made with this Sketch Library document is we moved all components to their own artboards. This makes finding the component symbol you want to use a breeze by mapping the lightningdesignsystem.com website’s menu, which you should be familiar with, to match the left hand artboard menu in Sketch.
 
-<table border="0" style="border-collapse:collapse;">
-	<tr style="border:none;">
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114419-392461ae-6a39-11e8-98fa-345a66b7c82b.png" title="Sketch SLDS Component Library Artboards" >
-				<img src="https://user-images.githubusercontent.com/1750832/41114419-392461ae-6a39-11e8-98fa-345a66b7c82b.png" alt="Sketch SLDS Component Library Artboards" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				Sketch SLDS Component Library Artboards
-			</span>
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114418-390674b4-6a39-11e8-807c-aada633f10c5.png" title="lightningdesignsystem.com Website Menu" >
-				<img src="https://user-images.githubusercontent.com/1750832/41114418-390674b4-6a39-11e8-807c-aada633f10c5.png" alt="lightningdesignsystem.com Website Menu" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				lightningdesignsystem.com Website Menu
-			</span>
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
-			&nbsp;
-		</td>
-	</tr>
-</table>
+![lightingdesignsystem.com Menu](https://user-images.githubusercontent.com/1750832/41117594-58d53dbc-6a42-11e8-82d9-7b188bbd2f74.png)
+![SLDS Component Library Artboards](https://user-images.githubusercontent.com/1750832/41117593-58b16270-6a42-11e8-9585-372732bfe673.png)
 <br />
 <br />
 
@@ -114,29 +66,8 @@ Most nested symbols are denoted in this document’s structure under the folders
 
 To see nested symbols in action, add a symbol from the SLDS Component Library to your Sketch document. In Sketch’s right side panel you’ll see all the symbol overrides or customizations you can make to that symbol without having to detach it and keeping the automatic update feature in tact.
 
-<table border="0" style="border-collapse:collapse;">
-	<tr style="border:none;">
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:24%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114415-38c15a64-6a39-11e8-8c71-bd6d1ceaad2a.png" title="The right side overrides section allows for the tab title and state to be customized" >
-				<img src="https://user-images.githubusercontent.com/1750832/41114415-38c15a64-6a39-11e8-8c71-bd6d1ceaad2a.png" alt="The right side overrides section allows for the tab title and state to be customized" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				The right side overrides section allows for the tab title and state to be customized
-			</span>
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:42%;">
-			<a target="_blank" href="https://user-images.githubusercontent.com/1750832/41114416-38e5b03a-6a39-11e8-8057-f782b77a1280.png" title="The tab symbol uses nested symbols for Hover, Default and Selected tab states" >
-				<img src="https://user-images.githubusercontent.com/1750832/41114416-38e5b03a-6a39-11e8-8057-f782b77a1280.png" alt="The tab symbol uses nested symbols for Hover, Default and Selected tab states" />
-			</a>
-			<span style="font-size:12px; color:#706e6b;display:block;padding-top:12px;">
-				The tab symbol uses nested symbols for Hover, Default and Selected tab states
-			</span>
-		</td>
-		<td align="top" style="vertical-align:top;border:none; text-align:center;width:33%;">
-			&nbsp;
-		</td>
-	</tr>
-</table>
+![The right side overrides setion in Sketch allows for tab title and state to be customized](https://user-images.githubusercontent.com/1750832/41117591-587bdd58-6a42-11e8-8213-0b0c84f7eb21.png)
+![The tab symbol uses nested symbols for Hover, Default and Selected states](https://user-images.githubusercontent.com/1750832/41117592-58941256-6a42-11e8-9be7-d9a8bbe9b339.png)
 <br />
 <br />
 
