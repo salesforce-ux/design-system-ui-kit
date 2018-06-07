@@ -4,6 +4,67 @@
 
 <!-- ## [Unreleased] -->
 
+## [4.0.0] - 2018-06-05
+
+An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
+
+###New Components
+
+* Builder Header
+* Feed
+* Docked Form Footer
+* Polymorphic Lookup
+* Combobox / Lookup
+* Slider
+* Tab - Mobile Drill In
+* Carousel
+* Datepicker
+* Datetime Picker
+* Timepicker
+* Listbox
+* Expandable Sections
+* Empty State
+* Warning and Error Popovers
+* Accordion
+* Visual Pickers
+* Map
+* Dueling Picklist
+* Added Chat
+* Added Feature Popover
+* Welcome Mat
+* Vertical and Horizontal Progress Indicator
+* Setup Assistant
+* Tree
+* Disabled input variant of Checkbox Toggle
+* Path coaching variant
+
+###Updated Components###
+
+* Walkthrough Popover
+* Updated Global Header colors, shadows and borders
+* Updated colors and spacing on Docked Utility Bar
+* Nested Tab state symbols
+* Nested Scoped Tab state symbols
+* Nested Path state symbols
+* Updated colors on Data Table
+* Updated heights of mobile to use whole numbers
+* Updated Typography styles
+* Updated Avatar
+
+###Enhancements###
+
+* Optimized to be used as a Sketch Library
+* Added instructions artboard
+* Supercharged icon symbols
+* 40 Empty State Illustration Nested Symbols
+* Arranged component artboards in alphabetical order
+* Moved components their own artboards
+* Added Color Token symbols
+* Renamed symbols to match SLDS component names
+
+
+
+
 ## [3.0.1] - 2018-01-26
 
 - Fixed a typo in sketch release notes
@@ -15,6 +76,7 @@ An all new Design System UI Kit entirely revisited for Winter ’18, featuring:
 ### Mobile!
 - Simple, complex, and structure Salesforce mobile app components are now available
 - Key example screens for all major app states/functional areas
+
 ### Symbols
 - All components are now defined as proper symbols
 - Grouped with states defined / matches SLDS site naming
