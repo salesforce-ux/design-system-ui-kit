@@ -4,6 +4,12 @@
 
 <!-- ## [Unreleased] -->
 
+## [4.1.0] - 2018-06-19
+
+###New Kit
+
+* Added Patterns/Builder/SLDS Pattern - Builder.sketch
+
 ## [4.0.0] - 2018-06-05
 
 An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
