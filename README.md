@@ -43,7 +43,7 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 
 **SLDS Pattern - Builder** -> Extends SLDS Component Library and adds component customizations to be used specifically in Salesforce Builders on top of the shared symbols
 
-![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png?v=4&s=300)
+![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png?s=100)
 <br />
 <br />
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
@@ -51,7 +51,7 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
 2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
 
-![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41632843-b8ea0338-73f0-11e8-8282-9e92fa50c0d4.png?v=4&s=500)
+![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41635016-3aa5d32a-73fb-11e8-97dd-41cf9e940735.png)
 <br />
 <br />
 
