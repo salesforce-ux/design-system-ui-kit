@@ -39,11 +39,11 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 <br />
 **Lightning Design System Sketch Library Architecture**
 
-SLDS Component Library -> Base Library for all SLDS Sketch documents
+**SLDS Component Library** -> Base Library for all SLDS Sketch documents
 
-SLDS Pattern - Builder -> Extends SLDS Component Library and adds component customizations on top of the shared symbols
+**SLDS Pattern - Builder** -> Extends SLDS Component Library and adds component customizations to be used specifically in Salesforce Builders on top of the shared symbols
 
-![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png)
+![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png | width=300)
 <br />
 <br />
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
