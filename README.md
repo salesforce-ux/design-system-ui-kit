@@ -37,15 +37,7 @@ The Salesforce UX team has made quite a few changes to this kit since the last r
 Sketch has released a feature that allowed any Sketch file’s symbols to be accessed and used across all of your Sketch documents. They called this feature Sketch Libraries. You can now have all SLDS components and patterns available from Sketch’s symbols menu in any file you open. Another powerful feature is that Sketch Libraries will automatically update your designs when the Library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
 <br />
 <br />
-**Lightning Design System Sketch Library Architecture**
 
-**SLDS Component Library** -> Base Library for all SLDS Sketch documents
-
-**SLDS Pattern - Builder** -> Extends SLDS Component Library and adds component customizations to be used specifically in Salesforce Builders on top of the shared symbols
-
-![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png?s=100)
-<br />
-<br />
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
 
 1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
@@ -96,6 +88,16 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 3. **Choose your icon glyph**. In Sketch’s right overrides panel, choose the icon glyph you’d like to use from the dropdown menu.
 4. **(Optional) Choose an icon glyph color**. In Sketch’s right overrides panel, choose the icon glyph color you’d like to use from the dropdown menu.
 5. **(Optional, for Action, Custom and Standard Icon Types) Choose an icon background color**. In Sketch’s right overrides panel, choose the icon background color you’d like to use from the dropdown menu.
+<br />
+<br />
+
+## Lightning Design System Sketch Library Architecture
+
+**SLDS Component Library** -> Base Library with SLDS components used in all SLDS Sketch documents
+
+**SLDS Pattern - Builder** -> Extends SLDS Component Library and adds component customizations to be used specifically in SLDS Builder patterns
+
+![SLDS Component Library is the base library. SLDS Pattern documents extend SLDS Component Library. Your designs can inherit any of the SLDS Sketch Library symbols!](https://user-images.githubusercontent.com/1750832/41634584-3e97204e-73f9-11e8-97c4-77a648f38768.png?s=100)
 <br />
 <br />
 
