@@ -41,7 +41,7 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
 
 1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
-2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
+2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document in this kit that you would like to use and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
 
 ![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41635016-3aa5d32a-73fb-11e8-97dd-41cf9e940735.png)
 <br />
