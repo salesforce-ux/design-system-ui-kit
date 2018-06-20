@@ -32,7 +32,7 @@ The Salesforce UX team has made quite a few changes to this kit since the last r
 <br />
 <br />
 
-**Why use this file as a Sketch Library?**
+**Why use these files as a Sketch Libraries?**
 
 Sketch has released a feature that allowed any Sketch file’s symbols to be accessed and used across all of your Sketch documents. They called this feature Sketch Libraries. You can now have all SLDS components and patterns available from Sketch’s symbols menu in any file you open. Another powerful feature is that Sketch Libraries will automatically update your designs when the Library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
 <br />
