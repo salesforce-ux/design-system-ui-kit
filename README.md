@@ -89,7 +89,6 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 4. **(Optional) Choose an icon glyph color**. In Sketch’s right overrides panel, choose the icon glyph color you’d like to use from the dropdown menu.
 5. **(Optional, for Action, Custom and Standard Icon Types) Choose an icon background color**. In Sketch’s right overrides panel, choose the icon background color you’d like to use from the dropdown menu.
 <br />
-<br />
 
 ## Lightning Design System Sketch Library Architecture
 
