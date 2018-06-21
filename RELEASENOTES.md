@@ -4,11 +4,17 @@
 
 <!-- ## [Unreleased] -->
 
+## [4.1.0] - 2018-06-19
+
+### New Kit
+
+* Added Patterns/Builder/SLDS Pattern - Builder.sketch
+
 ## [4.0.0] - 2018-06-05
 
 An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 
-###New Components
+### New Components
 
 * Builder Header
 * Feed
@@ -38,7 +44,7 @@ An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 * Disabled input variant of Checkbox Toggle
 * Path coaching variant
 
-###Updated Components###
+### Updated Components
 
 * Walkthrough Popover
 * Updated Global Header colors, shadows and borders
@@ -51,7 +57,7 @@ An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 * Updated Typography styles
 * Updated Avatar
 
-###Enhancements###
+### Enhancements
 
 * Optimized to be used as a Sketch Library
 * Added instructions artboard
