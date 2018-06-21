@@ -28,7 +28,7 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 
 **Welcome to the Summer ’18 Sketch Library kit**
 
-The Salesforce UX team has made quite a few changes to this kit since the last release. We made optimizations so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started with this Sketch Library kit. You can still use this kit just like you have in previous releases, but the Salesforce UX team believes this file is best used as a Sketch Library. What does that mean and why should you use it that way? We’ll answer those questions below.
+The Salesforce UX team has made quite a few changes to this kit since the last release. We made optimizations so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started with this Sketch Library kit. You can still use this kit just like you have in previous releases, but the Salesforce UX team believes these files are best used as a Sketch Libraries. What does that mean and why should you use them that way? We’ll answer those questions below.
 <br />
 <br />
 
@@ -41,7 +41,7 @@ Sketch has released a feature that allowed any Sketch file’s symbols to be acc
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
 
 1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
-2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document in this kit that you would like to use and select `File > Add as Library` . Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
+2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document in this kit that you would like to use and select `File > Add as Library`. Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
 
 ![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41635016-3aa5d32a-73fb-11e8-97dd-41cf9e940735.png)
 <br />
