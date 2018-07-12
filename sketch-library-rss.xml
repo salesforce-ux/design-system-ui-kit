@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Lightning Design System UI Kit</title>
+		<description>Heroku UI Kit</description>
+		<image>
+			<url>
+				https://user-images.githubusercontent.com/1750832/42660509-4474b50a-85e0-11e8-8a90-aa337f4db903.png
+			</url>
+			<title>Lightning Design System UI Kit</title>
+		</image>
+		<generator>Sketch</generator>
+		<item>
+			<title>Lightning Design System UI Kit</title>
+			<pubDate>Thurs, 21 June 2018 12:33:43 +0000</pubDate>
+			<enclosure url="https://github.com/salesforce-ux/design-system-ui-kit/blob/master/SLDS%20Component%20Library.sketch" type="application/octet-stream" sparkle:version="4.1.0"/>
+		</item>
+	</channel>
+</rss>
