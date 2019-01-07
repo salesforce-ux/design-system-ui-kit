@@ -6,7 +6,8 @@
 <p align="center">
 A collection of Sketch Libraries including <a href="https://www.lightningdesignsystem.com">Lightning Design System</a> components and design patterns.
 </p>
-<h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">» Download the latest kit now «</a></h3>
+<h3 align="center"><a href="sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml">» Install the latest kit as a Sketch Library now «</a></h3>
+<p align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">or download the latest kit</a></p>
 <br />
 <br />
 
