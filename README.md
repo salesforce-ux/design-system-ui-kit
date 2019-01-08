@@ -21,49 +21,39 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 
 ### Salesforce Sans fonts
 
-1. [Download the Design System Zip](https://www.lightningdesignsystem.com/resources/downloads/)
-2. Find the fonts located in the `/assets/fonts` directory
-3. Install the fonts on your system
+1. [Download the Salesforce Sans fonts from the Design System repository](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts)
+2. Install the fonts on your system
 
 ## Getting Started
 
-**Welcome to the Summer ’18 Sketch Library kit**
+**Welcome to the Spring '19 Sketch Library kit**
 
-The Salesforce UX team has made quite a few changes to this kit since the last release. We made optimizations so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started with this Sketch Library kit. You can still use this kit just like you have in previous releases, but the Salesforce UX team believes these files are best used as a Sketch Libraries. What does that mean and why should you use them that way? We’ll answer those questions below.
-<br />
-<br />
+The Salesforce UX team has made optimizations with this Sketch Library so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started. You can still use this SLDS UI Kit just like you have in previous releases, by downloading it, but the Salesforce UX team believes these files are best used as a Sketch Library.
 
-**Why use these files as a Sketch Libraries?**
-
-Sketch has released a feature that allowed any Sketch file’s symbols to be accessed and used across all of your Sketch documents. They called this feature Sketch Libraries. You can now have all SLDS components and patterns available from Sketch’s symbols menu in any file you open. Another powerful feature is that Sketch Libraries will automatically update your designs when the Library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
+Sketch Libraries allow you to have SLDS components and patterns available from Sketch’s symbols menu in any file you open. Sketch Libraries will automatically update your designs when the library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
 <br />
 <br />
 
 **How to use these Sketch documents as a Sketch Libraries in two quick steps**
 
-1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
-2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document in this kit that you would like to use and select `File > Add as Library`. Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
+Copy and paste this link in any browser: **sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml**. This will subscribe your Sketch application to automatically download and install new versions of the SLDS Sketch UI Kit.
 
 ![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41635016-3aa5d32a-73fb-11e8-97dd-41cf9e940735.png)
 <br />
 <br />
 
-**Artboards Everywhere**
+**Artboard Navigation**
 
-Another big change we’ve made is we moved all components to their own artboards in the SLDS Component Library document. This makes finding the component symbol you want to use a breeze by mapping the lightningdesignsystem.com website’s menu, which you should be familiar with, to match the left hand artboard menu in Sketch.
+All components have their own artboards in this SLDS Component Library document. Finding the component symbol you want to use a breeze since the lightningdesignsystem.com website menu is mapped to the Sketch artboard list.
 
 ![lightingdesignsystem.com Menu](https://user-images.githubusercontent.com/1750832/41117594-58d53dbc-6a42-11e8-82d9-7b188bbd2f74.png)
 ![SLDS Component Library Artboards](https://user-images.githubusercontent.com/1750832/41117593-58b16270-6a42-11e8-9585-372732bfe673.png)
 <br />
 <br />
 
-**Nested Symbols Galore**
+**Nested Symbols**
 
-Sketch Symbols allow you to use and reuse a self-contained design element across a Sketch document. Any changes made to a symbol will update across your whole document. It’s really handy! Nested symbols allow for even more customization, without breaking the symbol from its source, by adding symbols in symbols. Nested symbols are used throughout this Sketch file so that you can customize your designs as much as possible without detaching your Symbol.
-
-There is a backlog of SLDS component symbols that are not yet nested, but we’re actively working on getting 100% of symbols in a place where you can customize them without detaching. Once a symbol is detached, then you won’t receive automatic updates when a new a new kit is released.
-
-Most nested symbols are denoted in this document’s structure under the folders called “z-embedded”. You should never need to add a symbol from those folders. Please ignore them. They contain symbols that are nested in the parent component symbol.
+Sketch Symbols allow you to use and reuse a self-contained design element across a Sketch document. Any changes made to a symbol will update across your whole document. It’s really handy! Nested symbols allow for even more customization, without breaking the symbol from its source, by adding symbols inside other symbols. These Nested symbols are used throughout this Sketch file so that you can customize your designs as much as possible without detaching your Symbol.
 
 To see nested symbols in action, open any Sketch document and insert a symbol from the SLDS Component Library `Insert > Symbols > SLDS Component Library'. In Sketch’s right side panel you’ll see all the symbol overrides or customizations you can make to that symbol without having to detach the symbol--keeping the automatic update feature in tact.
 
