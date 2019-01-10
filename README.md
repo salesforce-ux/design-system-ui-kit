@@ -67,7 +67,7 @@ To see nested symbols in action, open any Sketch document and insert a symbol fr
 
 **Color Token and Typography Layer Styles**
 
-Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. The SLDS Component Library uses Sketch Layer Styles and Sketch Text Styles to mimic [Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/). This allows Sketch designs to use the equivalent of a design token--saving you time spec'ing your designs for development.
+Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. The SLDS Component Library uses Sketch Layer Styles and Sketch Text Styles to mimic [Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/). This allows Sketch designs to use the equivalent of a design token; saving you time spec'ing your designs for development.
 
 In symbols, like icons, that contain solid color backgrounds, you’ll find the background is a layer style which defines the icon background. This allows us to easily make file-wide changes to colors when new visual styles are introduced in SLDS. Instead of changing fill colors individually in hundreds of shapes in this document, we can just update a color symbol or point the shape to another color symbol.
 <br />
@@ -99,7 +99,9 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 
 The SLDS team welcomes your help in maintaining the SLDS Component Library. Please add any bugs or feature requests under the [Issues](https://github.com/salesforce-ux/design-system-ui-kit/issues) tab of this repository.
 
-**Public contributions are currently closed.** Salesforce designers contribute to this kit while designing Salesforce releases through an application called Abstract. These releases are completed four months before being released to the public, therefore public contributions to this kit are essentially contributing to a four month old stale release. This become unmanagable to merge Sketch binary files and isn't fair to contributors who work hard on a contribution only to have it closed without a merge.
+🚨 **External contributions are currently closed** 🚨
+<br />
+Salesforce designers contribute to this kit while designing Salesforce releases through an application called Abstract. These releases are completed four months before being released to the public, therefore public contributions to this kit are essentially contributing to a four month old stale release. This become unmanagable to merge Sketch binary files and isn't fair to contributors who work hard on a contribution only to have it closed without a merge.
 <br />
 <br />
 
