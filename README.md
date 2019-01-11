@@ -6,11 +6,11 @@
 <p align="center">
 A collection of Sketch Libraries including <a href="https://www.lightningdesignsystem.com">Lightning Design System</a> components and design patterns.
 </p>
-<p align="center">Always stay up to date by installing the latest kit as a Sketch Library.
+<p align="center"><i>Always stay up to date by installing the latest SLDS Component Library as a Sketch Library.</i>
 <br />
   <strong>» Copy/paste the URL below in any browser address bar «</strong></p>
-<h3 align="center" style="line-height:1.55;"><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml</code></h3>
-<p align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">or download the kit</a></p>
+<h3 align="center"><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml</code></h3>
+<p align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">or download the latest</a></p>
 <br />
 <br />
 
@@ -24,66 +24,56 @@ Download the most recent version of [Sketch](https://www.sketchapp.com/).
 
 ### Salesforce Sans fonts
 
-1. [Download the Design System Zip](https://www.lightningdesignsystem.com/resources/downloads/)
-2. Find the fonts located in the `/assets/fonts` directory
-3. Install the fonts on your system
+1. Download the [Salesforce Sans fonts](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts) from the Design System repository
+2. Install the fonts on your system
 
 ## Getting Started
 
-**Welcome to the Summer ’18 Sketch Library kit**
+**Welcome to the Spring '19 SLDS Component Library Sketch UI Kit**
 
-The Salesforce UX team has made quite a few changes to this kit since the last release. We made optimizations so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started with this Sketch Library kit. You can still use this kit just like you have in previous releases, but the Salesforce UX team believes these files are best used as a Sketch Libraries. What does that mean and why should you use them that way? We’ll answer those questions below.
+The Salesforce UX team has made optimizations with this Sketch Library so you can more efficiently create Salesforce Lightning interfaces. In the instructions below, we’ll cover the basics and some tips for you to get started. You can still use this SLDS Component Library Sketch UI Kit just like you have in previous releases, by downloading it, but the Salesforce UX team believes these files are best used as a Sketch Library.
+
+Sketch Libraries allow you to have SLDS components and patterns available from Sketch’s symbols menu in any file you open. Sketch Libraries will automatically update your designs when the library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
 <br />
 <br />
 
-**Why use these files as a Sketch Libraries?**
+**How to use the SLDS Component Library as a Sketch Library**
 
-Sketch has released a feature that allowed any Sketch file’s symbols to be accessed and used across all of your Sketch documents. They called this feature Sketch Libraries. You can now have all SLDS components and patterns available from Sketch’s symbols menu in any file you open. Another powerful feature is that Sketch Libraries will automatically update your designs when the Library is updated. Your designs will never be out of date if they’re linked to this Sketch Library document.
-<br />
-<br />
-
-**How to use these Sketch documents as a Sketch Libraries in two quick steps**
-
-1. **Save this kit to your local computer**. To use this as a Sketch Library, first you’ll need to place this document somewhere permanent. Try saving it to, `Users/[YourName]/Documents/SLDS/` .
-2. **“Add as Library” in the Sketch menu**. Next you need to open each SLDS Sketch Library document in this kit that you would like to use and select `File > Add as Library`. Boom! Now you’re all set. All SLDS components and patterns are available in your Sketch Symbols menu to use in any Sketch document you work in.
+Copy and paste this link in any browser: `sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml`. This will subscribe your Sketch application to automatically download and install new versions of the SLDS Component Library Sketch UI Kit.
 
 ![You can see all of your Sketch Libraries in Sketch > Preferences > Libraries](https://user-images.githubusercontent.com/1750832/41635016-3aa5d32a-73fb-11e8-97dd-41cf9e940735.png)
 <br />
 <br />
 
-**Artboards Everywhere**
+**Artboard Navigation**
 
-Another big change we’ve made is we moved all components to their own artboards in the SLDS Component Library document. This makes finding the component symbol you want to use a breeze by mapping the lightningdesignsystem.com website’s menu, which you should be familiar with, to match the left hand artboard menu in Sketch.
+All components have their own artboards in this SLDS Component Library document. Finding the component symbol you want to use a breeze since the lightningdesignsystem.com website menu is mapped to the Sketch artboard list.
 
 ![lightingdesignsystem.com Menu](https://user-images.githubusercontent.com/1750832/41117594-58d53dbc-6a42-11e8-82d9-7b188bbd2f74.png)
 ![SLDS Component Library Artboards](https://user-images.githubusercontent.com/1750832/41117593-58b16270-6a42-11e8-9585-372732bfe673.png)
 <br />
 <br />
 
-**Nested Symbols Galore**
+**Nested Symbols**
 
-Sketch Symbols allow you to use and reuse a self-contained design element across a Sketch document. Any changes made to a symbol will update across your whole document. It’s really handy! Nested symbols allow for even more customization, without breaking the symbol from its source, by adding symbols in symbols. Nested symbols are used throughout this Sketch file so that you can customize your designs as much as possible without detaching your Symbol.
+Sketch Symbols allow you to use and reuse a self-contained design element across a Sketch document. Any changes made to a symbol will update across your whole document. It’s really handy! Nested symbols allow for even more customization, without breaking the symbol from its source, by adding symbols inside other symbols. These nested symbols are used throughout the Sketch file so that you can customize your designs as much as possible without detaching your Symbol.
 
-There is a backlog of SLDS component symbols that are not yet nested, but we’re actively working on getting 100% of symbols in a place where you can customize them without detaching. Once a symbol is detached, then you won’t receive automatic updates when a new a new kit is released.
-
-Most nested symbols are denoted in this document’s structure under the folders called “z-embedded”. You should never need to add a symbol from those folders. Please ignore them. They contain symbols that are nested in the parent component symbol.
-
-To see nested symbols in action, open any Sketch document and insert a symbol from the SLDS Component Library `Insert > Symbols > SLDS Component Library'. In Sketch’s right side panel you’ll see all the symbol overrides or customizations you can make to that symbol without having to detach the symbol--keeping the automatic update feature in tact.
+To see nested symbols in action, open any Sketch document and insert a symbol from the SLDS Component Library `Insert > Symbols > SLDS Component Library`. In Sketch’s right side panel you’ll see all the symbol overrides or customizations you can make to that symbol without having to detach the symbol--keeping the automatic update feature in tact.
 
 ![The right side overrides setion in Sketch allows for tab title and state to be customized](https://user-images.githubusercontent.com/1750832/41117591-587bdd58-6a42-11e8-8213-0b0c84f7eb21.png)
 ![The tab symbol uses nested symbols for Hover, Default and Selected states](https://user-images.githubusercontent.com/1750832/41117592-58941256-6a42-11e8-9be7-d9a8bbe9b339.png)
 <br />
 <br />
 
-**Color Token Symbols**
+**Color Token and Typography Layer Styles**
 
-Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. The SLDS Component Library document uses color symbols to mimic [Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/) with color values. This allows the structure of a symbol to use the equivalent of a design token.
+Salesforce Lightning Design System uses design tokens as named entities that store visual design attributes. The SLDS Component Library uses Sketch Layer Styles and Sketch Text Styles to mimic [Lightning Design System design tokens](https://www.lightningdesignsystem.com/design-tokens/). This allows Sketch designs to use the equivalent of a design token; saving you time spec'ing your designs for development.
 
-In symbols, like icons, that contain solid color backgrounds, you’ll find the background is a mask which reveals the color symbol as if it was a shape fill. This allows us to easily make file-wide changes to colors when new visual styles are introduced in SLDS. Instead of changing fill colors in hundreds of shapes in this document, we can just update a color symbol or point the shape to another color symbol.
+In symbols, like icons, that contain solid color backgrounds, you’ll find the background is a layer style which defines the icon background. This allows us to easily make file-wide changes to colors when new visual styles are introduced in SLDS. Instead of changing fill colors individually in hundreds of shapes in this document, we can just update a color symbol or point the shape to another color symbol.
 <br />
 <br />
 
-## How to use the icon symbols
+## How to use icon symbols
 
 **Across Salesforce, you'll frequently see [Lightning Design System icons](https://www.lightningdesignsystem.com/icons/). We’ve constructed them to be easily used individually and as nested symbols. The steps below cover how to place icon symbols individually by using the SLDS Component Library as a Sketch Library**
 
@@ -94,7 +84,7 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 5. **(Optional, for Action, Custom and Standard Icon Types) Choose an icon background color**. In Sketch’s right overrides panel, choose the icon background color you’d like to use from the dropdown menu.
 <br />
 
-## Lightning Design System Sketch Library Architecture
+## SLDS Component Library Sketch File Architecture
 
 **SLDS Component Library** -> Base Library with SLDS components used in all SLDS Sketch documents
 
@@ -104,35 +94,17 @@ In symbols, like icons, that contain solid color backgrounds, you’ll find the 
 <br />
 <br />
 
-## Recommended Sketch Plugins
 
-**Paddy**
+## Contributing, Feature Requests and Bug Reporting
 
-Paddy allows you to add automated padding and spacing for Sketch layers. Paddy is used throughout this Sketch document. It is not required, but is extremely helpful when adding text overrides in a symbol and having the symbol adjust to your customization with perfect padding and spacing without having to detach the symbol from this Sketch Library.
-https://github.com/DWilliames/paddy-sketch-plugin
+The SLDS team welcomes your help in maintaining the SLDS Component Library. Please add any bugs or feature requests under the [Issues](https://github.com/salesforce-ux/design-system-ui-kit/issues) tab of this repository.
 
-**Runner**
-
-Sketch Runner helps you to get around Sketch quicker by giving you an intuitive interface to run commands directly from your keyboard. Runner allows you to skip Sketch navigation, buttons or menus and quickly type the action you want to take like, “insert desktop tab” to add a tab component symbol to your artboard.
-[https://sketchrunner.com](https://sketchrunner.com/)
+🚨 **External contributions are currently closed** 🚨
+<br />
+Salesforce designers contribute to this kit while designing Salesforce releases through an application called Abstract. These releases are completed four months before being released to the public, therefore public contributions to this kit are essentially contributing to a four month old stale release. This become unmanagable to merge Sketch binary files and isn't fair to contributors who work hard on a contribution only to have it closed without a merge.
 <br />
 <br />
 
-## Contribute!
-
-The SLDS team welcomes your help in maintaining and growing this UI kit.
-
-Here are a few of the kinds of contributions we are looking for:
-
-1. **Bug fixes:** fixing goofs in the Sketch file where what it has for a component doesn’t match what we are displaying for that component in the code-based documentation
-2. **New Pattern:** sharing your design for arranging several components into a useful UI widget
-3. **New Template:** sharing a more complex design that contains components and patterns arranged into an entire screen layout
-
-### Got something to add?
-
-Great! Please take a look at our [contribution guidelines](https://github.com/salesforce-ux/design-system-ui-kit/blob/master/CONTRIBUTING.md) for instructions on how to proceed.
-<br />
-<br />
 
 ## License
 

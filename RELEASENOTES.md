@@ -4,6 +4,49 @@
 
 <!-- ## [Unreleased] -->
 
+## [4.2.0] - 2019-01-09
+
+### New Components
+
+* Added Panels
+* Added File Selector
+* Added Data Table Variants
+* Added Notifications
+* Added Expression
+* Added Polymorphic Combobox   
+* Added Drop Zone
+
+### Updated Components
+
+* Updated Combobox’s Search Variant
+* Updated Search in Global Header
+* Updated Expandable Sections Size
+* Updated Page Headers
+* Updated Expandable Sections
+* Updated Popovers
+* Updated Modals
+* Updated Textarea
+* Updated Checkboxes
+* Updated Radio Buttons
+* Updated Buttons
+* Updated responsive resizing to Empty States
+* Updated responsive resizing to Global Header
+* Updated Picklist
+* Fixed Brand Button resizing bug
+* Added neutral button symbol
+* Fixed Badge icon resizing
+* Updated accordion
+
+### Enhancements
+
+* Added nested symbol in Button Icons
+* Added new icons
+* Icon audit
+* Added SLDS typography to text styles
+* Fixed double-label bugs and missing symbols
+* Updated component symbols to remove all caps
+* Created layer styles to replace masked color symbols
+
 ## [4.1.0] - 2018-06-19
 
 ### New Kit
