@@ -22,6 +22,7 @@
 
 ### Updated Components
 
+* Updated Readme instructions
 * Updated typography weights
 * Updating Page Header pinning
 * Updated Modal Footer
@@ -40,6 +41,7 @@
 
 ### Enhancements
 
+* Reorganized package file structure
 * Fixed Button Group Text Styles
 * Fixed Feed and Timeline pinning
 * Fixed Builder Header pinning
