@@ -3,6 +3,62 @@
 <!-- Release notes authoring guidelines: http://keepachangelog.com/ -->
 
 <!-- ## [Unreleased] -->
+## [4.3.0] - 2019-05-24
+
+### New Components
+
+* Added new Badge flavors
+* Added Media Player component
+* Added List Builder component
+* Added List Builder destructive variant
+* Added Breadcrumbs
+* Added Checkbox Button
+* Add Button Icon XX Small and Small.
+* Added nested Progress Indicator symbols
+* Added Prompt component
+* Added layer styles for modal header 
+* Add missing utility icons
+* Added Modal header symbols
+
+### Updated Components
+
+* Updated typography weights
+* Updating Page Header pinning
+* Updated Modal Footer
+* Updated Feed and Timeline visuals
+* Updated Lighting Setup Flow modal example
+* Updated Toasts to use layer styles
+* Updated input fields to use layer styles
+* Updated input field nested symbols
+* Updated Badge colors
+* Updated Input text styles
+* Updated Data Table text and icon styles
+* Updated Utility Icons to include missing icons
+* Updated Panel header
+* Updated Combobox
+* Updated Builder Header
+
+### Enhancements
+
+* Fixed Button Group Text Styles
+* Fixed Feed and Timeline pinning
+* Fixed Builder Header pinning
+* Replace non-symbol instances with symbols
+* Fix resizing properties on buttons with icons and text to remain centered
+* Fix background resize and icon resize on buttons to avoid irregular sizing
+* Fix button group resizing to not resize
+* Fix resizing properties of drag zone labels to remain centered
+* Fix Checkbox Button backgrounds to use layer styles and have correct border radius
+* Fix name and size of Button Icon Small to be X Small (22px -> 20px square)
+* Fix border radius on button icons
+* Fix checkboxes and radios to use correct color, size, shapes and labels.
+* Fixed pinning on Progress Indicator
+* Renamed arrowup and arrowdown icons
+* Corrected the icon shape positions
+* Fixed mobile picklist positioning
+* Fixed Picklist resizing and styling
+* Fixed Button Icon resizing
+* Fixed Global Nav Wireframe resizing
 
 ## [4.2.0] - 2019-01-09
 
