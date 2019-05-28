@@ -3,6 +3,64 @@
 <!-- Release notes authoring guidelines: http://keepachangelog.com/ -->
 
 <!-- ## [Unreleased] -->
+## [4.3.0] - 2019-05-24
+
+### New Components
+
+* Added new Badge flavors
+* Added Media Player component
+* Added List Builder component
+* Added List Builder destructive variant
+* Added Breadcrumbs
+* Added Checkbox Button
+* Added Button Icon XX Small and Small.
+* Added nested Progress Indicator symbols
+* Added Prompt component
+* Added layer styles for modal header 
+* Added missing utility icons
+* Added Modal header symbols
+
+### Updated Components
+
+* Updated Readme instructions
+* Updated typography weights
+* Updated Page Header pinning
+* Updated Modal Footer
+* Updated Feed and Timeline visuals
+* Updated Lighting Setup Flow modal example
+* Updated Toasts to use layer styles
+* Updated input fields to use layer styles
+* Updated input field nested symbols
+* Updated Badge colors
+* Updated Input text styles
+* Updated Data Table text and icon styles
+* Updated Utility Icons to include missing icons
+* Updated Panel header
+* Updated Combobox
+* Updated Builder Header
+
+### Enhancements
+
+* Reorganized package file structure
+* Fixed Button Group Text Styles
+* Fixed Feed and Timeline pinning
+* Fixed Builder Header pinning
+* Replace non-symbol instances with symbols
+* Fixed resizing properties on buttons with icons and text to remain centered
+* Fixed background resize and icon resize on buttons to avoid irregular sizing
+* Fixed button group resizing to not resize
+* Fixed resizing properties of drag zone labels to remain centered
+* Fixed Checkbox Button backgrounds to use layer styles and have correct border radius
+* Fixed name and size of Button Icon Small to be X Small (22px -> 20px square)
+* Fixed border radius on button icons
+* Fixed checkboxes and radios to use correct color, size, shapes and labels.
+* Fixed pinning on Progress Indicator
+* Renamed arrowup and arrowdown icons
+* Corrected the icon shape positions
+* Fixed mobile picklist positioning
+* Fixed Picklist resizing and styling
+* Fixed Button Icon resizing
+* Fixed Global Nav Wireframe resizing
 
 ## [4.2.0] - 2019-01-09
 
@@ -32,19 +90,19 @@
 * Updated responsive resizing to Empty States
 * Updated responsive resizing to Global Header
 * Updated Picklist
-* Fixed Brand Button resizing bug
-* Added neutral button symbol
-* Fixed Badge icon resizing
+* Updated Brand Button resizing bug
+* Updated neutral button symbol
+* Updated Badge icon resizing
 * Updated accordion
 
 ### Enhancements
 
-* Added nested symbol in Button Icons
-* Added new icons
+* Fixed nested symbol in Button Icons
+* Fixed new icons
 * Icon audit
-* Added SLDS typography to text styles
+* Fixed SLDS typography to text styles
 * Fixed double-label bugs and missing symbols
-* Updated component symbols to remove all caps
+* Fixed component symbols to remove all caps
 * Created layer styles to replace masked color symbols
 
 ## [4.1.0] - 2018-06-19
@@ -89,12 +147,12 @@ An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 
 ### Updated Components
 
-* Walkthrough Popover
+* Updated Walkthrough Popover
 * Updated Global Header colors, shadows and borders
 * Updated colors and spacing on Docked Utility Bar
-* Nested Tab state symbols
-* Nested Scoped Tab state symbols
-* Nested Path state symbols
+* Updated nested Tab state symbols
+* Updated nested Scoped Tab state symbols
+* Updated nested Path state symbols
 * Updated colors on Data Table
 * Updated heights of mobile to use whole numbers
 * Updated Typography styles
@@ -103,12 +161,12 @@ An all new Design System UI Kit entirely revisited for Summer ’18, featuring:
 ### Enhancements
 
 * Optimized to be used as a Sketch Library
-* Added instructions artboard
+* Fixed instructions artboard
 * Supercharged icon symbols
 * 40 Empty State Illustration Nested Symbols
 * Arranged component artboards in alphabetical order
 * Moved components their own artboards
-* Added Color Token symbols
+* Fixed Color Token symbols
 * Renamed symbols to match SLDS component names
 
 
