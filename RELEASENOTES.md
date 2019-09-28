@@ -3,6 +3,41 @@
 <!-- Release notes authoring guidelines: http://keepachangelog.com/ -->
 
 <!-- ## [Unreleased] -->
+## [4.4.0] - 2019-09-30
+
+### New Components
+
+* Added Welcome Mat variants
+* New Combobox
+* New Menu
+* New Vertical Navigation
+* New Tree
+* Added Setup Page Header 
+* Added Docked Composer
+* Added Brand Band
+
+### Updated Components
+
+* Fixed background color of Trial Bar
+* Fixed Scoped Notification
+* Updated Tooltips and Popovers
+* Updated Tabs, Scoped Tabs
+* Updated Tree
+* Updated Visual Picker
+* Fixed Global Header pinning
+* Fixed Expandable Section spacing
+* Fixed Text Area 
+* Fixed missing Tree state
+
+### Enhancements
+
+* Refactor of Mobile Components
+* Added Sketch’s dynamic layouts to buttons
+* Updated library color palette
+* Updated Popover typography
+* Updated Path
+
+
 ## [4.3.0] - 2019-05-24
 
 ### New Components
