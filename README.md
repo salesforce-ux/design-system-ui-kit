@@ -20,6 +20,8 @@ The SLDS UI Kit is a collection of Sketch Libraries of <a href="https://www.ligh
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rfl-rss.xml</code></li>
 <li><b>User Engagement Patterns</b> (optional)
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-user-engagement-rss.xml</code></li>
+<li><b>Standard Artboard Template</b> (optional)
+<br /><a href="https://github.com/salesforce-ux/design-system-ui-kit/blob/master/Templates/Standard%20Artboards.sketch" title="Standard Artboard Template">Download</a></li>
 </ol>
 <br />
 <p align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip">or download and install these files manually</a></p>
@@ -140,6 +142,16 @@ Across Salesforce, you'll frequently see [Lightning Design System icons](https:/
 3. **Choose your icon glyph**. In Sketch’s right overrides panel, choose the icon glyph you’d like to use from the dropdown menu.
 4. **(Optional) Choose an icon glyph color**. In Sketch’s right overrides panel, choose the icon glyph color you’d like to use from the dropdown menu.
 5. **(Optional, for Action, Custom and Standard Icon Types) Choose an icon background color**. In Sketch’s right overrides panel, choose the icon background color you’d like to use from the dropdown menu.
+
+<br />
+<br />
+
+## Templates
+
+Salesforce regularly checks the viewport dimensions customers use in order to optimize designs for those sizes and devices. Included in this repository is a template to help designers get a head start designing to each of the most common viewport resolutions. Download the <a href="https://github.com/salesforce-ux/design-system-ui-kit/blob/master/Templates/Standard%20Artboards.sketch" title="Standard Artboard Template">Standard Artboard Template</a> here.
+<br />
+<br />
+![Tablet landscape template](https://user-images.githubusercontent.com/1750832/65809018-ea3b5880-e14d-11e9-9782-0add80989175.png)
 
 <br />
 <br />
