@@ -1,8 +1,8 @@
 {
   "name": "@salesforce-ux/design-system-ui-kit",
-  "version": "4.4.0",
+  "version": "5.0.0",
   "description": "Lightning Design System UI Kit",
-  "main": "SLDS Component Library.sketch",
+  "main": "SLDS Components for Web.sketch",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
