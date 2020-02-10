@@ -45,7 +45,7 @@ The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resource
 
 Download the most recent version of [Sketch](https://www.sketchapp.com/).
 <br />
-<i>If you do not have Sketch, you can use the <a href="https://www.framer.com" target="_blank" title="Framer SLDS UI Kit">Framer SLDS UI Kit</a> or <a href="https://www.figma.com/" target="_blank" title="Figma SLDS UI Kit">Figma SLDS UI Kit</a>, however, they may not be as up-to-date as the Sketch files.</i>
+<i>If you do not have Sketch, you can use the <a href="https://github.com/salesforce-ux/design-system-ui-kit-framerx" target="_blank" title="Framer SLDS UI Kit">Framer SLDS UI Kit</a> or <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Components for Web">Figma SLDS Components for Web</a> and <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Icons">Figma SLDS Icons</a> libraries, however, they may not be as up-to-date as the Sketch files.</i>
 
 ### Salesforce Sans fonts
 
