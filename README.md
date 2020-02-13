@@ -1,20 +1,20 @@
 <p align="center">
-<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082861-8013ecba-69e4-11e8-8149-7eaa94825b19.png" alt="Design System UI Kit" /></a>
+<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip" target="_blank"><img src="https://user-images.githubusercontent.com/1750832/41082861-8013ecba-69e4-11e8-8149-7eaa94825b19.png" alt="Design System UI Kit" /></a>
 </p>
 <br />
 <h1 style="border-bottom:none;">Salesforce Lightning Design System (SLDS) UI Kit</h1>
 <p>
-The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resources to support designing and prototyping using <a href="https://www.lightningdesignsystem.com">Lightning Design System</a> components, tokens, and design patterns. There are also useful resources to help make design workflows more efficient with artifacts like page templates, wireframes, key product screens, and components for writing specifications. 
+The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resources to support designing and prototyping using <a href="https://www.lightningdesignsystem.com" target="_blank">Lightning Design System</a> components, tokens, and design patterns. There are also useful resources to help make design workflows more efficient with artifacts like page templates, wireframes, key product screens, and components for writing specifications. 
 </p>
-<strong>» To install, copy/paste the URLs below in any browser address bar «</strong></p>
-<i>Required libraries</i>
+<b>» To install, copy/paste the URLs below in any browser address bar «</b></p>
+<em>Required libraries</em>
 <ul>
 <li><b>SLDS Icons</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-icons-rss.xml</code></li>
 <li><b>SLDS Components for Web</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml</code></li>
 </ul>
-<i>Optional Libraries</i>
+<em>Optional Libraries</em>
 <ul>
 <li><b>Builder Patterns</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-builder-rss.xml</code></li>
@@ -25,7 +25,7 @@ The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resource
 <li><b>User Engagement Patterns</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-user-engagement-rss.xml</code></li>
 </ul>
-<i>Other Resources</i>
+<em>Other Resources</em>
 <ul>
 <li><b>Artboard Templates</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-artboard-template-rss.xml</code></li>
@@ -45,7 +45,7 @@ The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resource
 
 Download the most recent version of [Sketch](https://www.sketchapp.com/).
 <br />
-<i>If you do not have Sketch, you can use the <a href="https://github.com/salesforce-ux/design-system-ui-kit-framerx" target="_blank" title="Framer SLDS UI Kit">Framer SLDS UI Kit</a> or <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Components for Web">Figma SLDS Components for Web</a> and <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Icons">Figma SLDS Icons</a> libraries, however, they may not be as up-to-date as the Sketch files.</i>
+<em>If you do not have Sketch, you can use the <a href="https://github.com/salesforce-ux/design-system-ui-kit-framerx" target="_blank" title="Framer SLDS UI Kit">Framer SLDS UI Kit</a> or <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Components for Web">Figma SLDS Components for Web</a> and <a href="https://www.figma.com/file/5dgFdCHB6FGjfOPAZEDNVK/Lightning-Design-System-Components-for-Web?node-id=0%3A1" target="_blank" title="Figma SLDS Icons">Figma SLDS Icons</a> libraries, however, they may not be as up-to-date as the Sketch files.</em>
 
 ### Salesforce Sans fonts
 
@@ -180,5 +180,5 @@ All icons and images are licensed under [Creative Commons Attribution-NoDerivati
 <br />
 <br />
 <p align="center">
-<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip"><img src="https://user-images.githubusercontent.com/1750832/41082860-7ffe3c1c-69e4-11e8-9b0f-813cf9be1395.png" alt="Design System UI Kit" /></a>
+<a href="https://github.com/salesforce-ux/design-system-ui-kit/archive/master.zip" target="_blank"><img src="https://user-images.githubusercontent.com/1750832/41082860-7ffe3c1c-69e4-11e8-9b0f-813cf9be1395.png" alt="Design System UI Kit" /></a>
 </p>
