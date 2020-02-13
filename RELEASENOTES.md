@@ -3,6 +3,41 @@
 <!-- Release notes authoring guidelines: http://keepachangelog.com/ -->
 
 <!-- ## [Unreleased] -->
+## [5.0.0] - 2020-02-12
+
+### Structure
+
+* Moved Icons to their own library
+* Moved Mobile Components to their own library
+* Moved Wireframes to their own file
+* Replaced all icons to use new icon library * Added Smart Layout to components
+
+### New Components
+
+* Added Counter
+
+### Updated Components
+
+* Updated Toast icon color
+* Updated Visual Picker icon color
+* Updated Popover header and footer
+* Updated Popover border colors
+* Updated Filter icons and symbols
+
+### Bug Fixes
+
+* Fixed Trial Bar layout and button width
+* Fixed Data Table alignment
+* Fixed Tooltip and Popover layout
+* Fixed Button text alignment
+* Fixed icon colors for warnings and alerts
+* Fixed Visual Picker borders for each state
+* Fixed Modal header sizing
+* Fixed resizing issue with Popover
+* Fixed Modal footer layout
+* Fixed Docked Form Footer with error
+
+
 ## [4.4.0] - 2019-09-30
 
 ### New Components
