@@ -74,7 +74,7 @@ Copy and paste the following links to each of the required libraries below in an
     
     sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-icons-rss.xml
 
-Alternatively, download the Sketch Libraries in this repository you'd like to install. Open `Sketch > Preferences > Libraries` and click `Add Library...`. Select the library you'd like to install. If you do this method, you'll have to frequently come back to this repository, download new version, and repeat this installation. This method is not recommended because it's such a hassle.
+Alternatively, download the Sketch Libraries in this repository you'd like to install. Open `Sketch > Preferences > Libraries` and click `Add Library...`. Select the library you'd like to install. If you do this method, you'll have to frequently come back to this repository, download the new version, and repeat this installation. This method is not recommended because it's such a hassle.
 
 Verify that you've successfully installed the Sketch Libraries by opening `Sketch > Preferences > Libraries`. You should see all of the libraries you installed above.
 
