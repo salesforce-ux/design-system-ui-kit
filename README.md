@@ -10,7 +10,7 @@ The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resource
 <em>Required libraries</em>
 <ul>
 <li><b>SLDS Icons</b>
-<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-icons-rss.xml</code></li>
+<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-icon-rss.xml</code></li>
 <li><b>SLDS Components for Web</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-rss.xml</code></li>
 </ul>
@@ -28,13 +28,13 @@ The Salesforce Lightning Design System (SLDS) UI Kit is a collection of resource
 <em>Other Resources</em>
 <ul>
 <li><b>Artboard Templates</b>
-<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-artboard-template-rss.xml</code></li>
+<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-artboard-rss.xml</code></li>
 <li><b>Specification Library</b>
-<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-spec-library-rss.xml</code></li>
+<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-spec-rss.xml</code></li>
 <li><b>Key Mobile Product Screens</b>
 <br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-key-screens-rss.xml</code></li>
 <li><b>Wireframe Library</b>
-<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-wireframes-rss.xml</code></li>
+<br /><code>sketch://add-library?url=https://www.lightningdesignsystem.com/sketch-library-wireframe-rss.xml</code></li>
 </ul>
 <br />
 <br />
