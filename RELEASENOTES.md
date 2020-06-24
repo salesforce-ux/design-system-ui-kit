@@ -1,5 +1,8 @@
 # Release notes
 
+## [5.1.1] - 2020-06-23
+* Added missing Mobile kit
+
 ## [5.1.0] - 2020-06-23
 * Added Framer package page to download the Framer SLDS UI Kit
 * Added Figma community page to download the Figma SLDS UI Kit
