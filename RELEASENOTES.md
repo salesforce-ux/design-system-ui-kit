@@ -1,8 +1,22 @@
 # Release notes
 
-<!-- Release notes authoring guidelines: http://keepachangelog.com/ -->
+## [5.1.0] - 2020-06-23
+* Added Framer package page to download the Framer SLDS UI Kit
+* Added Figma community page to download the Figma SLDS UI Kit
+* New content builder patterns added
+* All banners and thumbnails updated to new SLDS branding
+* 70 new icons added
+* Added mobile component library
+* Fixed arrow and information icon sizes in symbols
+* Fixed modal blocking background color
+* Updated data table header color
+* Updated input label truncation
+* Updated scoped notifications to use auto-layout
+* Updated resize scaling on toggles
+* Updated read-only input
 
-<!-- ## [Unreleased] -->
+### Structure
+
 ## [5.0.0] - 2020-02-12
 
 ### Structure
@@ -10,7 +24,7 @@
 * Moved Icons to their own library
 * Moved Mobile Components to their own library
 * Moved Wireframes to their own file
-* Replaced all icons to use new icon library * Added Smart Layout to components
+* Replaced all icons to use new icon library* Added Smart Layout to components
 
 ### New Components
 
